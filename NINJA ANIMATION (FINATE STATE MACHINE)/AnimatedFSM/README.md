@@ -1,0 +1,1 @@
+This is just small piece that shows animation and states, basically finate state machine

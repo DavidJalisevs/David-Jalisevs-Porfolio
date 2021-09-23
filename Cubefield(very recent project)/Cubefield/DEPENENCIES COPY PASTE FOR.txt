@@ -1,0 +1,2 @@
+PATH=%PATH%;%GLM_SDK%\bin\Release\Win32
+PATH=%PATH%;%GLEW_SDK%\bin\Release\Win32
